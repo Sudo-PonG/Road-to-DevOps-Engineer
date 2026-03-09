@@ -2562,7 +2562,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DR of Low Level ALZ" id="c7wxGpqyLHdf3EF8ovzJ">
-    <mxGraphModel dx="1426" dy="777" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="570" dy="311" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="iCKpqW8MrLq49OGigxVe-0" />
         <mxCell id="iCKpqW8MrLq49OGigxVe-1" parent="iCKpqW8MrLq49OGigxVe-0" />
@@ -2654,7 +2654,7 @@
           <mxGeometry height="26" width="26" x="213" y="330" as="geometry" />
         </mxCell>
         <mxCell id="iCKpqW8MrLq49OGigxVe-32" connectable="0" parent="iCKpqW8MrLq49OGigxVe-1" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;" value="" vertex="1">
-          <mxGeometry height="78" width="36" x="374" y="292" as="geometry" />
+          <mxGeometry height="78" width="36" x="387" y="292" as="geometry" />
         </mxCell>
         <mxCell id="iCKpqW8MrLq49OGigxVe-33" parent="iCKpqW8MrLq49OGigxVe-32" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#82b366;fillColor=#d5e8d4;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.tunnel_straight;rotation=180;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="10" width="58.1917808219178" x="-8" y="47" as="geometry" />
@@ -2708,7 +2708,7 @@
           <mxGeometry height="24.21" width="25" x="1095" y="429.9" as="geometry" />
         </mxCell>
         <mxCell id="iCKpqW8MrLq49OGigxVe-55" parent="iCKpqW8MrLq49OGigxVe-1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=5;image=img/lib/azure2/identity/Users.svg;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelBackgroundColor=none;" value="User" vertex="1">
-          <mxGeometry height="19" width="17.37" x="40" y="494" as="geometry" />
+          <mxGeometry height="19" width="17.37" x="295" y="384" as="geometry" />
         </mxCell>
         <mxCell id="iCKpqW8MrLq49OGigxVe-56" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=5;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Server" vertex="1">
           <mxGeometry height="18" width="33" x="162.05" y="344" as="geometry" />
@@ -4185,8 +4185,8 @@
         <mxCell id="naP8Yww36p_A_ZKrxZOp-28" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=6;" value="Core Switch 9300" vertex="1">
           <mxGeometry height="11" width="60" x="131" y="378" as="geometry" />
         </mxCell>
-        <mxCell id="naP8Yww36p_A_ZKrxZOp-29" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=6;" value="Vlan 20&lt;br&gt;AD server&lt;div&gt;Radian sv&lt;/div&gt;&lt;div&gt;AD backup&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="64" y="504.61" as="geometry" />
+        <mxCell id="naP8Yww36p_A_ZKrxZOp-29" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=6;" value="Vlan 20&lt;br&gt;Server&amp;nbsp;&lt;div&gt;Equiment&lt;/div&gt;" vertex="1">
+          <mxGeometry height="25.39" width="36" x="81" y="503" as="geometry" />
         </mxCell>
         <mxCell id="naP8Yww36p_A_ZKrxZOp-30" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=6;" value="Vlan 26&lt;br&gt;Lan" vertex="1">
           <mxGeometry height="24" width="34" x="118" y="502" as="geometry" />
@@ -4260,8 +4260,8 @@
             <mxPoint x="270.17600000000004" y="445.79655" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="20A4HnMDXWlFB_-qZZCV-0" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=9;labelBorderColor=default;textShadow=0;labelBackgroundColor=none;autosizeText=0;" value="Trisrating Firewall FGT 200E&lt;div&gt;Vlan 20 Server&lt;/div&gt;&lt;div&gt;Vlan 26 Lan&lt;/div&gt;&lt;div&gt;Vlan 27 Staff-wifi&lt;/div&gt;&lt;div&gt;Vlan 28 Guest-wifi&lt;/div&gt;&lt;div&gt;Vlan 29 Ip phone&lt;/div&gt;" vertex="1">
-          <mxGeometry height="79" width="126" x="222" y="238" as="geometry" />
+        <mxCell id="20A4HnMDXWlFB_-qZZCV-0" parent="iCKpqW8MrLq49OGigxVe-1" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=9;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;autosizeText=0;fontStyle=1" value="Trisrating Firewall FGT 200E&#xa;Vlan 20 Server&amp;Equiment&#xa;Vlan 26 Lan&#xa;Vlan 27 Staff-wifi&#xa;Vlan 28 Guest-wifi&#xa;Vlan 29 Ip phone" vertex="1">
+          <mxGeometry height="76" width="126" x="222" y="228" as="geometry" />
         </mxCell>
         <mxCell id="20A4HnMDXWlFB_-qZZCV-1" edge="1" parent="iCKpqW8MrLq49OGigxVe-1" source="naP8Yww36p_A_ZKrxZOp-3" style="endArrow=none;html=1;rounded=0;entryX=0.019;entryY=0.812;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.99;exitY=0.029;exitDx=0;exitDy=0;exitPerimeter=0;" target="20A4HnMDXWlFB_-qZZCV-0" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -4283,6 +4283,9 @@
             <mxPoint x="199" y="435.99757000000005" as="sourcePoint" />
             <mxPoint x="199.00000000000009" y="402" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YCtkNYJ3h4sOqU0scX4G-0" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Azure Vlan&lt;/b&gt;&lt;div&gt;10.0.1.22 AD server&lt;/div&gt;&lt;div&gt;10.0.1.11 Printer server&lt;/div&gt;&lt;div&gt;10.0.1.4 CoreCredit DB&lt;/div&gt;&lt;div&gt;10.0.1.5 CoreCredit office app&lt;/div&gt;&lt;div&gt;10.0.1.6 CoreCredit Webapp&lt;/div&gt;&lt;div&gt;10.0.1.7 SetSmart&lt;/div&gt;&lt;div&gt;10.0.1.8&amp;nbsp; Rnalytic DB&lt;/div&gt;&lt;div&gt;10.0.1.9 Rnalytic Webapp&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="135" width="170" x="542" y="514" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
