@@ -2562,7 +2562,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DR of Low Level ALZ" id="c7wxGpqyLHdf3EF8ovzJ">
-    <mxGraphModel dx="570" dy="311" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="777" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="iCKpqW8MrLq49OGigxVe-0" />
         <mxCell id="iCKpqW8MrLq49OGigxVe-1" parent="iCKpqW8MrLq49OGigxVe-0" />
@@ -2708,7 +2708,7 @@
           <mxGeometry height="24.21" width="25" x="1095" y="429.9" as="geometry" />
         </mxCell>
         <mxCell id="iCKpqW8MrLq49OGigxVe-55" parent="iCKpqW8MrLq49OGigxVe-1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=5;image=img/lib/azure2/identity/Users.svg;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelBackgroundColor=none;" value="User" vertex="1">
-          <mxGeometry height="19" width="17.37" x="295" y="384" as="geometry" />
+          <mxGeometry height="19" width="17.37" x="41" y="391" as="geometry" />
         </mxCell>
         <mxCell id="iCKpqW8MrLq49OGigxVe-56" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=5;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Server" vertex="1">
           <mxGeometry height="18" width="33" x="162.05" y="344" as="geometry" />
@@ -4284,8 +4284,8 @@
             <mxPoint x="199.00000000000009" y="402" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YCtkNYJ3h4sOqU0scX4G-0" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Azure Vlan&lt;/b&gt;&lt;div&gt;10.0.1.22 AD server&lt;/div&gt;&lt;div&gt;10.0.1.11 Printer server&lt;/div&gt;&lt;div&gt;10.0.1.4 CoreCredit DB&lt;/div&gt;&lt;div&gt;10.0.1.5 CoreCredit office app&lt;/div&gt;&lt;div&gt;10.0.1.6 CoreCredit Webapp&lt;/div&gt;&lt;div&gt;10.0.1.7 SetSmart&lt;/div&gt;&lt;div&gt;10.0.1.8&amp;nbsp; Rnalytic DB&lt;/div&gt;&lt;div&gt;10.0.1.9 Rnalytic Webapp&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="135" width="170" x="542" y="514" as="geometry" />
+        <mxCell id="YCtkNYJ3h4sOqU0scX4G-0" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Azure Vlan&lt;/b&gt;&lt;div&gt;10.0.1.22 AD server&lt;/div&gt;&lt;div&gt;10.0.1.11 Printer server&lt;/div&gt;&lt;div&gt;10.0.1.4 CoreCredit DB&lt;/div&gt;&lt;div&gt;10.0.1.5 CoreCredit office app&lt;/div&gt;&lt;div&gt;10.0.1.6 CoreCredit Webapp&lt;/div&gt;&lt;div&gt;10.0.1.7 SetSmart&lt;/div&gt;&lt;div&gt;10.0.1.8&amp;nbsp; Rnalytic DB&lt;/div&gt;&lt;div&gt;10.0.1.9 Rnalytic Webapp&lt;/div&gt;&lt;div&gt;10.0.1.12 Rnalytical Test&lt;/div&gt;&lt;div&gt;10.1.0.0/16 CoreCredit-P2&lt;/div&gt;&lt;div&gt;10.2.0.0/16 Intra-App&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="183" width="170" x="542" y="514" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
