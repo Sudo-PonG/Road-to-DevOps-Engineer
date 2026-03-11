@@ -2562,7 +2562,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DR of Low Level ALZ" id="c7wxGpqyLHdf3EF8ovzJ">
-    <mxGraphModel dx="594" dy="324" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="713" dy="389" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="iCKpqW8MrLq49OGigxVe-0" />
         <mxCell id="iCKpqW8MrLq49OGigxVe-1" parent="iCKpqW8MrLq49OGigxVe-0" />
@@ -4258,10 +4258,10 @@
             <mxPoint x="270.17600000000004" y="445.79655" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="20A4HnMDXWlFB_-qZZCV-0" parent="iCKpqW8MrLq49OGigxVe-1" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=9;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;autosizeText=0;fontStyle=1" value="Trisrating Firewall FGT 200E&#xa;Vlan 20 Server&amp;Equiment&#xa;Vlan 26 Lan&#xa;Vlan 27 Staff-wifi&#xa;Vlan 28 Guest-wifi&#xa;Vlan 29 Ip phone" vertex="1">
+        <mxCell id="20A4HnMDXWlFB_-qZZCV-0" parent="iCKpqW8MrLq49OGigxVe-1" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=9;labelBorderColor=none;textShadow=0;labelBackgroundColor=none;autosizeText=0;fontStyle=0" value="Trisrating Firewall FGT 200E&#xa;Vlan 20 : Server&amp;Equiment&#xa;Vlan 26 : Lan&#xa;Vlan 27 : Staff-wifi&#xa;Vlan 28 : Guest-wifi&#xa;Vlan 29 : Ip phone" vertex="1">
           <mxGeometry height="76" width="126" x="222" y="228" as="geometry" />
         </mxCell>
-        <mxCell id="20A4HnMDXWlFB_-qZZCV-1" edge="1" parent="iCKpqW8MrLq49OGigxVe-1" source="naP8Yww36p_A_ZKrxZOp-3" style="endArrow=none;html=1;rounded=0;entryX=0.019;entryY=0.812;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.99;exitY=0.029;exitDx=0;exitDy=0;exitPerimeter=0;" target="20A4HnMDXWlFB_-qZZCV-0" value="">
+        <mxCell id="20A4HnMDXWlFB_-qZZCV-1" edge="1" parent="iCKpqW8MrLq49OGigxVe-1" source="naP8Yww36p_A_ZKrxZOp-3" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.99;exitY=0.029;exitDx=0;exitDy=0;exitPerimeter=0;" target="20A4HnMDXWlFB_-qZZCV-0" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="168" y="343" as="sourcePoint" />
             <mxPoint x="218" y="293" as="targetPoint" />
