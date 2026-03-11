@@ -2562,7 +2562,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DR of Low Level ALZ" id="c7wxGpqyLHdf3EF8ovzJ">
-    <mxGraphModel dx="344" dy="187" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="594" dy="324" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="iCKpqW8MrLq49OGigxVe-0" />
         <mxCell id="iCKpqW8MrLq49OGigxVe-1" parent="iCKpqW8MrLq49OGigxVe-0" />
@@ -2606,7 +2606,7 @@
           <mxGeometry height="15.06" width="16" x="1244.9994444444444" y="268.96999999999997" as="geometry" />
         </mxCell>
         <mxCell id="iCKpqW8MrLq49OGigxVe-15" parent="iCKpqW8MrLq49OGigxVe-1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
-          <mxGeometry height="356" width="353" x="11" y="216" as="geometry" />
+          <mxGeometry height="386" width="353" x="11" y="216" as="geometry" />
         </mxCell>
         <mxCell id="iCKpqW8MrLq49OGigxVe-16" parent="iCKpqW8MrLq49OGigxVe-1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
           <mxGeometry height="313" width="360" x="535" y="195" as="geometry" />
@@ -2708,7 +2708,7 @@
           <mxGeometry height="24.21" width="25" x="1095" y="429.9" as="geometry" />
         </mxCell>
         <mxCell id="iCKpqW8MrLq49OGigxVe-55" parent="iCKpqW8MrLq49OGigxVe-1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=5;image=img/lib/azure2/identity/Users.svg;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelBackgroundColor=none;" value="User" vertex="1">
-          <mxGeometry height="19" width="17.37" x="324" y="409" as="geometry" />
+          <mxGeometry height="19" width="17.37" x="151" y="565" as="geometry" />
         </mxCell>
         <mxCell id="iCKpqW8MrLq49OGigxVe-56" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=5;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Server" vertex="1">
           <mxGeometry height="18" width="33" x="162.05" y="344" as="geometry" />
@@ -4248,8 +4248,8 @@
         <mxCell id="VX53-T50vJCzTNSkLM8F-39" parent="iCKpqW8MrLq49OGigxVe-1" style="fillColorStyles=neutralFill;neutralFill=#9DA6A8;shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.wireless_hub;network2IconYOffset=-0.1142;network2IconW=1;network2IconH=0.5485;" value="" vertex="1">
           <mxGeometry height="21.35" width="38.92" x="276" y="502" as="geometry" />
         </mxCell>
-        <mxCell id="VX53-T50vJCzTNSkLM8F-40" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=6;" value="Vlan 28&lt;br&gt;Guest-wifi" vertex="1">
-          <mxGeometry height="18" width="31" x="282" y="522" as="geometry" />
+        <mxCell id="VX53-T50vJCzTNSkLM8F-40" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=6;" value="Vlan 28&amp;nbsp;Guest-wifi&lt;div&gt;internet only can not access system&lt;/div&gt;" vertex="1">
+          <mxGeometry height="25" width="81" x="255" y="524" as="geometry" />
         </mxCell>
         <mxCell id="VX53-T50vJCzTNSkLM8F-42" edge="1" parent="iCKpqW8MrLq49OGigxVe-1" source="KFTuzoRVHLJO1kBXRu0r-8" style="endArrow=none;html=1;rounded=0;entryX=0.451;entryY=0.869;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.04;exitY=0.605;exitDx=0;exitDy=0;exitPerimeter=0;" target="VX53-T50vJCzTNSkLM8F-15" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
