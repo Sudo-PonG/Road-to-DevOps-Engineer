@@ -2562,7 +2562,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DR of Low Level ALZ" id="c7wxGpqyLHdf3EF8ovzJ">
-    <mxGraphModel dx="1188" dy="648" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="570" dy="311" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="iCKpqW8MrLq49OGigxVe-0" />
         <mxCell id="iCKpqW8MrLq49OGigxVe-1" parent="iCKpqW8MrLq49OGigxVe-0" />
@@ -4166,8 +4166,8 @@
         <mxCell id="naP8Yww36p_A_ZKrxZOp-27" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=6;" value="Firewall FGT 200E" vertex="1">
           <mxGeometry height="13" width="60" x="160" y="314" as="geometry" />
         </mxCell>
-        <mxCell id="naP8Yww36p_A_ZKrxZOp-29" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=6;" value="Server&amp;nbsp;" vertex="1">
-          <mxGeometry height="25.39" width="36" x="20" y="524" as="geometry" />
+        <mxCell id="naP8Yww36p_A_ZKrxZOp-29" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=6;" value="Nutanix Server&lt;br&gt;RDC-01&lt;br&gt;RDC-04&lt;div&gt;O365-Server&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="47" x="20" y="525" as="geometry" />
         </mxCell>
         <mxCell id="naP8Yww36p_A_ZKrxZOp-30" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=6;" value="Lan" vertex="1">
           <mxGeometry height="24" width="34" x="78" y="521" as="geometry" />
