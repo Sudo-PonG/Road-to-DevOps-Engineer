@@ -2562,7 +2562,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DR of Low Level ALZ" id="c7wxGpqyLHdf3EF8ovzJ">
-    <mxGraphModel dx="1056" dy="576" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="648" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="iCKpqW8MrLq49OGigxVe-0" />
         <mxCell id="iCKpqW8MrLq49OGigxVe-1" parent="iCKpqW8MrLq49OGigxVe-0" />
@@ -4258,7 +4258,7 @@
             <mxPoint x="212.5" y="395.3754600000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YCtkNYJ3h4sOqU0scX4G-0" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Azure Vlan&lt;/b&gt;&lt;div&gt;10.0.1.22 AD server&lt;/div&gt;&lt;div&gt;10.0.1.11 Printer server&lt;/div&gt;&lt;div&gt;10.0.1.4 CoreCredit DB&lt;/div&gt;&lt;div&gt;10.0.1.5 CoreCredit office app&lt;/div&gt;&lt;div&gt;10.0.1.6 CoreCredit Webapp&lt;/div&gt;&lt;div&gt;10.0.1.7 SetSmart&lt;/div&gt;&lt;div&gt;10.0.1.8&amp;nbsp; Rnalytic DB&lt;/div&gt;&lt;div&gt;10.0.1.9 Rnalytic Webapp&lt;/div&gt;&lt;div&gt;10.0.1.12 Rnalytical Test&lt;/div&gt;&lt;div&gt;10.1.0.0/16 CoreCredit-P2&lt;/div&gt;&lt;div&gt;10.2.0.0/16 Intra-App&lt;/div&gt;&lt;div&gt;10.4.0.0./16&amp;nbsp;tr-website-prod-vnet&amp;nbsp;&lt;/div&gt;" vertex="1">
+        <mxCell id="YCtkNYJ3h4sOqU0scX4G-0" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Azure Vlan&lt;/b&gt;&lt;div&gt;10.0.1.22 AD server&lt;/div&gt;&lt;div&gt;10.0.1.11 Printer server&lt;/div&gt;&lt;div&gt;10.0.1.4 CoreCredit DB&lt;/div&gt;&lt;div&gt;10.0.1.5 CoreCredit office app&lt;/div&gt;&lt;div&gt;10.0.1.6 CoreCredit Webapp&lt;/div&gt;&lt;div&gt;10.0.1.7 SetSmart&lt;/div&gt;&lt;div&gt;10.0.1.8&amp;nbsp; Rnalytic DB&lt;/div&gt;&lt;div&gt;10.0.1.9 Rnalytic Webapp&lt;/div&gt;&lt;div&gt;10.0.1.10 TRDATA&lt;/div&gt;&lt;div&gt;10.0.1.12 Rnalytical Test&lt;/div&gt;&lt;div&gt;10.1.0.0/16 CoreCredit-P2&lt;/div&gt;&lt;div&gt;10.2.0.0/16 Intra-App&lt;/div&gt;&lt;div&gt;10.4.0.0./16&amp;nbsp;tr-website-prod-vnet&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="210" width="191" x="542" y="514" as="geometry" />
         </mxCell>
         <mxCell id="KFTuzoRVHLJO1kBXRu0r-1" edge="1" parent="iCKpqW8MrLq49OGigxVe-1" source="naP8Yww36p_A_ZKrxZOp-5" style="endArrow=none;html=1;rounded=0;entryX=0.91;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.737;exitY=0.01;exitDx=0;exitDy=0;exitPerimeter=0;" target="KFTuzoRVHLJO1kBXRu0r-0" value="">
