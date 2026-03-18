@@ -2562,7 +2562,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DR of Low Level ALZ" id="c7wxGpqyLHdf3EF8ovzJ">
-    <mxGraphModel dx="1141" dy="622" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="380" dy="207" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="iCKpqW8MrLq49OGigxVe-0" />
         <mxCell id="iCKpqW8MrLq49OGigxVe-1" parent="iCKpqW8MrLq49OGigxVe-0" />
@@ -2606,7 +2606,7 @@
           <mxGeometry height="15.06" width="16" x="1244.9994444444444" y="268.96999999999997" as="geometry" />
         </mxCell>
         <mxCell id="iCKpqW8MrLq49OGigxVe-15" parent="iCKpqW8MrLq49OGigxVe-1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=default;fontColor=#333333;strokeColor=#666666;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;textShadow=0;fillStyle=dots;gradientColor=none;align=left;glass=0;" value="" vertex="1">
-          <mxGeometry height="386" width="353" x="11" y="211" as="geometry" />
+          <mxGeometry height="348" width="353" x="11" y="211" as="geometry" />
         </mxCell>
         <mxCell id="iCKpqW8MrLq49OGigxVe-16" parent="iCKpqW8MrLq49OGigxVe-1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
           <mxGeometry height="313" width="360" x="535" y="195" as="geometry" />
@@ -4337,7 +4337,7 @@
           <mxGeometry height="26" width="154" x="1559" y="1050" as="geometry" />
         </mxCell>
         <mxCell id="9oatltDfuBwMm5h2H5Xg-0" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;labelBackgroundColor=#CCFFFF;" value="&lt;div&gt;&lt;b&gt;Component Details&lt;/b&gt;&lt;/div&gt;&lt;div&gt;ISP iNET ISP 140 Mbps&lt;/div&gt;&lt;div&gt;Router Cisco 3900 (WAN 203.151.97.30/30)&lt;/div&gt;&lt;div&gt;Firewall FortiGate 200E (192.168.20.1)&lt;/div&gt;&lt;div&gt;Core Switch Cisco 9300 (192.168.20.240/24)&lt;/div&gt;&lt;div&gt;Access Switch 1 Cisco 2960x (192.168.20.242-246/24)&lt;/div&gt;&lt;div&gt;Access Switch 2 Cisco cx6100 POE (192.168.20.4/24)&lt;/div&gt;&lt;div&gt;VPN S2S VPN Tunnel&lt;/div&gt;&lt;div&gt;VLAN 20 Server (Nutanix Server)&lt;/div&gt;&lt;div&gt;VLAN 26 Lan&lt;/div&gt;&lt;div&gt;VLAN 27 Staff-wifi (TR-Wifi)&lt;/div&gt;&lt;div&gt;VLAN 28 Guest-wifi (TR-Wifi-Guest)&lt;/div&gt;&lt;div&gt;VLAN 29 Ip phone&lt;/div&gt;" vertex="1">
-          <mxGeometry height="202" width="307" x="10" y="598" as="geometry" />
+          <mxGeometry height="197" width="307" x="10" y="603" as="geometry" />
         </mxCell>
         <mxCell id="9oatltDfuBwMm5h2H5Xg-2" edge="1" parent="iCKpqW8MrLq49OGigxVe-1" source="HpLTgTaUue-EWoG5kJv6-5" style="endArrow=none;html=1;rounded=0;entryX=0.517;entryY=0.925;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.528;exitY=0.011;exitDx=0;exitDy=0;exitPerimeter=0;" target="naP8Yww36p_A_ZKrxZOp-27" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
