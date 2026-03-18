@@ -2562,7 +2562,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DR of Low Level ALZ" id="c7wxGpqyLHdf3EF8ovzJ">
-    <mxGraphModel dx="2194" dy="1195" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="731" dy="398" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="iCKpqW8MrLq49OGigxVe-0" />
         <mxCell id="iCKpqW8MrLq49OGigxVe-1" parent="iCKpqW8MrLq49OGigxVe-0" />
@@ -4171,7 +4171,7 @@
           <mxGeometry height="16" width="76" x="112" y="385" as="geometry" />
         </mxCell>
         <mxCell id="VX53-T50vJCzTNSkLM8F-40" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=6;" value="TR-Wifi-Guest&lt;div&gt;internet only can not access system&lt;/div&gt;" vertex="1">
-          <mxGeometry height="32" width="47" x="250" y="479" as="geometry" />
+          <mxGeometry height="34" width="47" x="250" y="479" as="geometry" />
         </mxCell>
         <mxCell id="YCtkNYJ3h4sOqU0scX4G-0" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;labelBackgroundColor=#CCFFFF;" value="&lt;b&gt;Azure Vlan&lt;/b&gt;&lt;div&gt;10.0.1.22 AD server&lt;/div&gt;&lt;div&gt;10.0.1.11 Printer server&lt;/div&gt;&lt;div&gt;10.0.1.4 CoreCredit DB&lt;/div&gt;&lt;div&gt;10.0.1.5 CoreCredit office app&lt;/div&gt;&lt;div&gt;10.0.1.6 CoreCredit Webapp&lt;/div&gt;&lt;div&gt;10.0.1.7 SetSmart&lt;/div&gt;&lt;div&gt;10.0.1.8&amp;nbsp; Rnalytic DB&lt;/div&gt;&lt;div&gt;10.0.1.9 Rnalytic Webapp&lt;/div&gt;&lt;div&gt;10.0.1.10 TRDATA&lt;/div&gt;&lt;div&gt;10.0.1.12 Rnalytical Test&lt;/div&gt;&lt;div&gt;10.1.0.0/16 CoreCredit-P2&lt;/div&gt;&lt;div&gt;10.2.0.0/16 Intra-App&lt;/div&gt;&lt;div&gt;10.4.0.0./16&amp;nbsp;tr-website-prod-vnet&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="210" width="191" x="323" y="599" as="geometry" />
@@ -4189,7 +4189,7 @@
           <mxGeometry height="11" width="47" x="201" y="471" as="geometry" />
         </mxCell>
         <mxCell id="KFTuzoRVHLJO1kBXRu0r-8" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=6;" value="192.168.28.0/24" vertex="1">
-          <mxGeometry height="11" width="47" x="249" y="470" as="geometry" />
+          <mxGeometry height="11" width="47" x="249" y="471" as="geometry" />
         </mxCell>
         <mxCell id="HpLTgTaUue-EWoG5kJv6-0" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=6;" value="Cisco cx6100 POE&lt;br&gt;Ip: 192.168.20.4/24" vertex="1">
           <mxGeometry height="14" width="64" x="255" y="386" as="geometry" />
