@@ -2562,7 +2562,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DR of Low Level ALZ" id="c7wxGpqyLHdf3EF8ovzJ">
-    <mxGraphModel dx="1783" dy="971" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="815" dy="444" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="iCKpqW8MrLq49OGigxVe-0" />
         <mxCell id="iCKpqW8MrLq49OGigxVe-1" parent="iCKpqW8MrLq49OGigxVe-0" />
@@ -2732,8 +2732,8 @@
         <mxCell id="iCKpqW8MrLq49OGigxVe-62" parent="iCKpqW8MrLq49OGigxVe-60" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;P2S VPN Tunnel&lt;/font&gt;" vertex="1">
           <mxGeometry height="26" width="78" as="geometry" />
         </mxCell>
-        <mxCell id="iCKpqW8MrLq49OGigxVe-63" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="10.9.0.0/24" vertex="1">
-          <mxGeometry height="26" width="78" x="358" y="436" as="geometry" />
+        <mxCell id="iCKpqW8MrLq49OGigxVe-63" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=7;" value="10.9.0.0/24" vertex="1">
+          <mxGeometry height="20" width="53" x="357" y="440" as="geometry" />
         </mxCell>
         <mxCell id="iCKpqW8MrLq49OGigxVe-64" connectable="0" parent="iCKpqW8MrLq49OGigxVe-1" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="78" width="76.80434782608695" x="581" y="306" as="geometry" />
@@ -4143,17 +4143,11 @@
             <mxPoint x="161.95000000000005" y="344.674" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="naP8Yww36p_A_ZKrxZOp-20" edge="1" parent="iCKpqW8MrLq49OGigxVe-1" source="naP8Yww36p_A_ZKrxZOp-27" style="endArrow=none;html=1;rounded=0;entryX=0.398;entryY=0.93;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.528;exitY=0.011;exitDx=0;exitDy=0;exitPerimeter=0;" target="HpLTgTaUue-EWoG5kJv6-3" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="186.07799999999997" y="388.3299999999999" as="sourcePoint" />
-            <mxPoint x="187.55000000000007" y="357.2292" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="naP8Yww36p_A_ZKrxZOp-25" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=5;autosizeText=0;fontStyle=1" value="iNET ISP&lt;br&gt;140 Mbps" vertex="1">
-          <mxGeometry height="18" width="54" x="22" y="253" as="geometry" />
+          <mxGeometry height="18" width="54" x="19" y="249" as="geometry" />
         </mxCell>
-        <mxCell id="naP8Yww36p_A_ZKrxZOp-26" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=6;" value="Router Cisco 3900&amp;nbsp;&lt;div&gt;WAN 203.151.97.30/30&lt;/div&gt;&lt;div&gt;Circuit ID: ME38715&lt;/div&gt;" vertex="1">
-          <mxGeometry height="23" width="100" x="77" y="274" as="geometry" />
+        <mxCell id="naP8Yww36p_A_ZKrxZOp-26" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;rounded=0;fontSize=6;" value="Router Cisco 3900&amp;nbsp;&lt;div&gt;G0/1: 45.116.216.226/30&lt;/div&gt;&lt;div&gt;G0/0: 203.151.97.73/29&lt;/div&gt;" vertex="1">
+          <mxGeometry height="20" width="68" x="106" y="275" as="geometry" />
         </mxCell>
         <mxCell id="naP8Yww36p_A_ZKrxZOp-29" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=6;" value="Nutanix Server&lt;br&gt;VM-RDC-01.20&lt;br&gt;VM-RDC-04.24&lt;div&gt;VM-AD to Azure.191&lt;/div&gt;&lt;div&gt;VM-ARDC-01(DHCP).140&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="42" width="76" x="28" y="495" as="geometry" />
@@ -4174,7 +4168,7 @@
           <mxGeometry height="34" width="47" x="250" y="479" as="geometry" />
         </mxCell>
         <mxCell id="YCtkNYJ3h4sOqU0scX4G-0" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;labelBackgroundColor=#CCFFFF;" value="&lt;b&gt;Azure Vlan&lt;/b&gt;&lt;div&gt;10.0.1.22 AD server&lt;/div&gt;&lt;div&gt;10.0.1.11 Printer server&lt;/div&gt;&lt;div&gt;10.0.1.4 CoreCredit DB&lt;/div&gt;&lt;div&gt;10.0.1.5 CoreCredit office app&lt;/div&gt;&lt;div&gt;10.0.1.6 CoreCredit Webapp&lt;/div&gt;&lt;div&gt;10.0.1.7 SetSmart&lt;/div&gt;&lt;div&gt;10.0.1.8&amp;nbsp; Rnalytic DB&lt;/div&gt;&lt;div&gt;10.0.1.9 Rnalytic Webapp&lt;/div&gt;&lt;div&gt;10.0.1.10 TRDATA&lt;/div&gt;&lt;div&gt;10.0.1.12 Rnalytical Test&lt;/div&gt;&lt;div&gt;10.1.0.0/16 CoreCredit-P2&lt;/div&gt;&lt;div&gt;10.2.0.0/16 Intra-App&lt;/div&gt;&lt;div&gt;10.4.0.0./16&amp;nbsp;tr-website-prod-vnet&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="210" width="191" x="323" y="599" as="geometry" />
+          <mxGeometry height="210" width="191" x="17" y="571" as="geometry" />
         </mxCell>
         <mxCell id="KFTuzoRVHLJO1kBXRu0r-0" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=6;" value="192.168.20.0/24" vertex="1">
           <mxGeometry height="11" width="47" x="27" y="490" as="geometry" />
@@ -4195,7 +4189,7 @@
           <mxGeometry height="14" width="64" x="255" y="386" as="geometry" />
         </mxCell>
         <mxCell id="HpLTgTaUue-EWoG5kJv6-2" parent="iCKpqW8MrLq49OGigxVe-1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.routers.router;" value="" vertex="1">
-          <mxGeometry height="15" width="28" x="98" y="259" as="geometry" />
+          <mxGeometry height="15" width="28" x="130" y="259" as="geometry" />
         </mxCell>
         <mxCell id="HpLTgTaUue-EWoG5kJv6-3" parent="iCKpqW8MrLq49OGigxVe-1" style="image;html=1;image=img/lib/clip_art/networking/Firewall-page1_128x128.png" value="" vertex="1">
           <mxGeometry height="37" width="27" x="176" y="245" as="geometry" />
@@ -4336,17 +4330,14 @@
         <mxCell id="HpLTgTaUue-EWoG5kJv6-58" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;font color=&quot;#0066cc&quot;&gt;&lt;b&gt;TR-WebTRIS-Rating-RG&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="26" width="154" x="1559" y="1050" as="geometry" />
         </mxCell>
-        <mxCell id="9oatltDfuBwMm5h2H5Xg-0" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;labelBackgroundColor=#CCFFFF;" value="&lt;div&gt;&lt;b&gt;Component Details&lt;/b&gt;&lt;/div&gt;&lt;div&gt;ISP iNET ISP 140 Mbps&lt;/div&gt;&lt;div&gt;Router Cisco 3900 (WAN 203.151.97.30/30)&lt;/div&gt;&lt;div&gt;Firewall FortiGate 200E (192.168.20.1)&lt;/div&gt;&lt;div&gt;Core Switch Cisco 9300 (192.168.20.240/24)&lt;/div&gt;&lt;div&gt;Access Switch 1 Cisco 2960x (192.168.20.242-246/24)&lt;/div&gt;&lt;div&gt;Access Switch 2 Cisco cx6100 POE (192.168.20.4/24)&lt;/div&gt;&lt;div&gt;VPN S2S VPN Tunnel&lt;/div&gt;&lt;div&gt;VLAN 20 Server (Nutanix Server)&lt;/div&gt;&lt;div&gt;VLAN 26 Lan&lt;/div&gt;&lt;div&gt;VLAN 27 Staff-wifi (TR-Wifi)&lt;/div&gt;&lt;div&gt;VLAN 28 Guest-wifi (TR-Wifi-Guest)&lt;/div&gt;&lt;div&gt;VLAN 29 Ip phone&lt;/div&gt;" vertex="1">
-          <mxGeometry height="197" width="307" x="10" y="603" as="geometry" />
+        <mxCell id="9oatltDfuBwMm5h2H5Xg-0" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;rounded=0;labelBackgroundColor=#CCFFFF;fontSize=6;" value="&lt;div&gt;&lt;b&gt;Firewall Fortigate 200E&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(rgb(204, 255, 255), rgb(0, 37, 37)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;WAN: 203.151.97.74&lt;/span&gt;&lt;/div&gt;&lt;div&gt;VPN S2S VPN Tunnel&lt;/div&gt;&lt;div&gt;VLAN 20 Server (Nutanix Server)&lt;/div&gt;&lt;div&gt;VLAN 26 Lan&lt;/div&gt;&lt;div&gt;VLAN 27 Staff-wifi (TR-Wifi)&lt;/div&gt;&lt;div&gt;VLAN 28 Guest-wifi (TR-Wifi-Guest)&lt;/div&gt;&lt;div&gt;VLAN 29 Ip phone&lt;/div&gt;" vertex="1">
+          <mxGeometry height="62" width="99" x="204" y="265" as="geometry" />
         </mxCell>
-        <mxCell id="9oatltDfuBwMm5h2H5Xg-2" edge="1" parent="iCKpqW8MrLq49OGigxVe-1" source="HpLTgTaUue-EWoG5kJv6-5" style="endArrow=none;html=1;rounded=0;entryX=0.517;entryY=0.925;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.528;exitY=0.011;exitDx=0;exitDy=0;exitPerimeter=0;" target="naP8Yww36p_A_ZKrxZOp-27" value="">
+        <mxCell id="9oatltDfuBwMm5h2H5Xg-2" edge="1" parent="iCKpqW8MrLq49OGigxVe-1" source="HpLTgTaUue-EWoG5kJv6-5" style="endArrow=none;html=1;rounded=0;entryX=0.371;entryY=0.892;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.528;exitY=0.011;exitDx=0;exitDy=0;exitPerimeter=0;" target="HpLTgTaUue-EWoG5kJv6-3" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="186" y="389" as="sourcePoint" />
-            <mxPoint x="187" y="282" as="targetPoint" />
+            <mxPoint x="186.01999999999998" y="300.5" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="naP8Yww36p_A_ZKrxZOp-27" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=6;" value="Firewall FGT 200E&lt;div&gt;Ip: 192.168.20.1&lt;/div&gt;" vertex="1">
-          <mxGeometry height="20" width="60" x="155" y="282" as="geometry" />
         </mxCell>
         <mxCell id="9oatltDfuBwMm5h2H5Xg-7" edge="1" parent="iCKpqW8MrLq49OGigxVe-1" style="endArrow=none;html=1;rounded=0;entryX=0.517;entryY=0.925;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.528;exitY=0.011;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -4421,22 +4412,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9oatltDfuBwMm5h2H5Xg-22" parent="iCKpqW8MrLq49OGigxVe-1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;" value="" vertex="1">
-          <mxGeometry height="20" width="40" x="168" y="218" as="geometry" />
+          <mxGeometry height="20" width="40" x="230" y="218" as="geometry" />
         </mxCell>
         <mxCell id="9oatltDfuBwMm5h2H5Xg-23" parent="iCKpqW8MrLq49OGigxVe-1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="23" width="44" x="28" y="248" as="geometry" />
+          <mxGeometry height="23" width="44" x="26" y="244" as="geometry" />
         </mxCell>
         <mxCell id="9oatltDfuBwMm5h2H5Xg-24" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=6;fontStyle=1" value="FortiCloud" vertex="1">
-          <mxGeometry height="14" width="34" x="171" y="226" as="geometry" />
+          <mxGeometry height="14" width="34" x="233" y="225" as="geometry" />
         </mxCell>
-        <mxCell id="_SK-goKU3SsIsW6oAZ2N-1" edge="1" parent="iCKpqW8MrLq49OGigxVe-1" style="endArrow=none;html=1;rounded=0;exitX=0.95;exitY=0.598;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.034;entryY=0.516;entryDx=0;entryDy=0;entryPerimeter=0;" target="_SK-goKU3SsIsW6oAZ2N-0" value="">
+        <mxCell id="_SK-goKU3SsIsW6oAZ2N-1" edge="1" parent="iCKpqW8MrLq49OGigxVe-1" source="9oatltDfuBwMm5h2H5Xg-23" style="endArrow=none;html=1;rounded=0;exitX=0.966;exitY=0.93;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.034;entryY=0.516;entryDx=0;entryDy=0;entryPerimeter=0;" target="_SK-goKU3SsIsW6oAZ2N-0" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="72.39999999999998" y="266.93000000000006" as="sourcePoint" />
             <mxPoint x="99" y="267" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_SK-goKU3SsIsW6oAZ2N-0" parent="iCKpqW8MrLq49OGigxVe-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="" vertex="1">
-          <mxGeometry height="16" width="19" x="75" y="259" as="geometry" />
+        <mxCell id="_SK-goKU3SsIsW6oAZ2N-0" parent="iCKpqW8MrLq49OGigxVe-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffe6cc;strokeColor=#d79b00;" value="" vertex="1">
+          <mxGeometry height="16" width="19" x="92" y="257" as="geometry" />
+        </mxCell>
+        <mxCell id="yB7cIfCjh5gTAFJye5oW-1" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=5;" value="SYM" vertex="1">
+          <mxGeometry height="8" width="13" x="95" y="259" as="geometry" />
+        </mxCell>
+        <mxCell id="yB7cIfCjh5gTAFJye5oW-2" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;rounded=0;fontSize=5;" value="&lt;div&gt;CID-ME35407&lt;/div&gt;&lt;div&gt;Fiber(L2) - 140 Mbps&lt;/div&gt;" vertex="1">
+          <mxGeometry height="16" width="50" x="71" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="yB7cIfCjh5gTAFJye5oW-3" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=5;" value="G0/0" vertex="1">
+          <mxGeometry height="9" width="15" x="156" y="257" as="geometry" />
+        </mxCell>
+        <mxCell id="yB7cIfCjh5gTAFJye5oW-4" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=5;" value="G0/1" vertex="1">
+          <mxGeometry height="9" width="15" x="117" y="257" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
