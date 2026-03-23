@@ -2562,7 +2562,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DR of Low Level ALZ" id="c7wxGpqyLHdf3EF8ovzJ">
-    <mxGraphModel dx="815" dy="444" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="713" dy="389" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="iCKpqW8MrLq49OGigxVe-0" />
         <mxCell id="iCKpqW8MrLq49OGigxVe-1" parent="iCKpqW8MrLq49OGigxVe-0" />
@@ -4330,7 +4330,7 @@
         <mxCell id="HpLTgTaUue-EWoG5kJv6-58" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;font color=&quot;#0066cc&quot;&gt;&lt;b&gt;TR-WebTRIS-Rating-RG&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="26" width="154" x="1559" y="1050" as="geometry" />
         </mxCell>
-        <mxCell id="9oatltDfuBwMm5h2H5Xg-0" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;rounded=0;labelBackgroundColor=#CCFFFF;fontSize=6;" value="&lt;div&gt;&lt;b&gt;Firewall Fortigate 200E&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(rgb(204, 255, 255), rgb(0, 37, 37)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;WAN: 203.151.97.74&lt;/span&gt;&lt;/div&gt;&lt;div&gt;VPN S2S VPN Tunnel&lt;/div&gt;&lt;div&gt;VLAN 20 Server (Nutanix Server)&lt;/div&gt;&lt;div&gt;VLAN 26 Lan&lt;/div&gt;&lt;div&gt;VLAN 27 Staff-wifi (TR-Wifi)&lt;/div&gt;&lt;div&gt;VLAN 28 Guest-wifi (TR-Wifi-Guest)&lt;/div&gt;&lt;div&gt;VLAN 29 Ip phone&lt;/div&gt;" vertex="1">
+        <mxCell id="9oatltDfuBwMm5h2H5Xg-0" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;rounded=0;labelBackgroundColor=#CCFFFF;fontSize=6;" value="&lt;div&gt;&lt;b&gt;Firewall Fortigate 200E&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(rgb(204, 255, 255), rgb(0, 37, 37)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;WAN: 203.151.97.74&lt;/span&gt;&lt;/div&gt;&lt;div&gt;VPN S2S: 52.230.93.28&lt;/div&gt;&lt;div&gt;VLAN 20 Server (Nutanix Server)&lt;/div&gt;&lt;div&gt;VLAN 26 Lan&lt;/div&gt;&lt;div&gt;VLAN 27 Staff-wifi (TR-Wifi)&lt;/div&gt;&lt;div&gt;VLAN 28 Guest-wifi (TR-Wifi-Guest)&lt;/div&gt;&lt;div&gt;VLAN 29 Ip phone&lt;/div&gt;" vertex="1">
           <mxGeometry height="62" width="99" x="204" y="265" as="geometry" />
         </mxCell>
         <mxCell id="9oatltDfuBwMm5h2H5Xg-2" edge="1" parent="iCKpqW8MrLq49OGigxVe-1" source="HpLTgTaUue-EWoG5kJv6-5" style="endArrow=none;html=1;rounded=0;entryX=0.371;entryY=0.892;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.528;exitY=0.011;exitDx=0;exitDy=0;exitPerimeter=0;" target="HpLTgTaUue-EWoG5kJv6-3" value="">
@@ -4440,6 +4440,12 @@
         </mxCell>
         <mxCell id="yB7cIfCjh5gTAFJye5oW-4" parent="iCKpqW8MrLq49OGigxVe-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=5;" value="G0/1" vertex="1">
           <mxGeometry height="9" width="15" x="117" y="257" as="geometry" />
+        </mxCell>
+        <mxCell id="lEEAo296-7x6tkRf9hvR-2" edge="1" parent="iCKpqW8MrLq49OGigxVe-1" source="HpLTgTaUue-EWoG5kJv6-3" style="endArrow=classic;html=1;rounded=0;exitX=0.819;exitY=0.088;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="180" y="283" as="sourcePoint" />
+            <mxPoint x="230" y="233" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
